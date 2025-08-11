@@ -1,0 +1,200 @@
+/
+├── / (Homepage)
+├── /about (À propos de l'ENSTP)
+├── /preparatory
+│   ├── /1st-year
+│   │   ├── /semester1 (avec ressources complètes)
+│   │   └── /semester2 (avec ressources complètes)
+│   └── /2nd-year
+│       ├── /semester1
+│       └── /semester2
+└── /engineering
+    ├── /dib
+    │   └── /1st-year
+    │       ├── /semester1
+    │       └── /semester2
+    └── /dms
+        └── /1st-year
+            ├── /semester1
+            └── /semester2 
+# Organized Content Structure
+
+## 1st Year DIB - Semester 1
+
+### MDF (Mécanique des Fluides)
+- **Ultimate Pack**: https://drive.google.com/open?id=1hjhU5JTE1L-AYV3742jsQRZiuy5FMAv7&usp=drive_copy
+- **Examens corrigés Fluides réels**: https://drive.google.com/file/d/1PNVj3_5F8M8Of9BxJ1yKL7tpY-v-7hby/view?usp=drive_link
+- **MDF Book**: https://drive.google.com/open?id=1mWlJgU4lu_Dc7wfQ8xOBHuteuOiG49hP&usp=drive_copy
+- **Solutions TD MDF**: https://drive.google.com/file/d/1At0Ppy1bDEtms9u4QEysQTKv8hLkOFfo/view?usp=drive_link
+- **Cours**: https://drive.google.com/open?id=1-URDGGAmzgYej1iTsV3C-hkejSCTNwk4&usp=drive_copy
+
+### MDC (Mécanique Des Continus)
+- **Pack**: https://drive.google.com/drive/folders/1aeP9kt2GbSM1GYwUdgUY7FVv2pCXfQVB?usp=drive_link
+- **Resume**: https://drive.google.com/open?id=10rEq_2M-HwowjoDU0cuAoemX4DTvGiHP&usp=drive_copy
+
+### MDS (Mécanique Des Solides)
+- **Pack**: https://drive.google.com/drive/folders/1h6i8pwBI2atdcKjcM5EZdT8LcYL8sJe4?usp=drive_link
+- **Cours**: https://drive.google.com/open?id=16xDDog8A5UmQ8QhbXRwQE1naz0Arm269&usp=drive_copy
+- **TD**: https://drive.google.com/open?id=1qwKLkSZ4zCHih1vT6-7U9IJbZwz0DMZ7&usp=drive_copy
+
+### MMC (Mécanique Des Milieux Continus)
+- **Les Cours**: https://drive.google.com/open?id=1ZS3VZaDzUJwBEDeb7hxcpr9Phd9wMOnl&usp=drive_copy
+- **Cahier**: https://drive.google.com/open?id=11S60FMkHd853ZCn_b6Y3MIJYavv6n29G&usp=drive_copy
+- **TD**: https://drive.google.com/open?id=1lV0eFqUxfIe8T5TTSgV5C8vD7yxzIV6j&usp=drive_copy
+- **Exam**: https://drive.google.com/open?id=16-X9xpLNpmKC5rBFkUORvxoyFuFiOZks&usp=drive_copy
+
+### RDM (Résistance Des Matériaux)
+- **Ultimate Pack**: https://drive.google.com/drive/folders/1-K1dMIhi0g6ta8suoXSEX51vZywZsPJQ?usp=drive_link
+- **Les Chapitres**: https://drive.google.com/open?id=1u1_xadIEHoxN9PKbt7rGP00YKZF-y7Qh&usp=drive_copy
+
+### Topographie
+- **Cours**: https://drive.google.com/open?id=1UsdvcZCnSWrY7qwgdP2tVXysN_HnzCrw&usp=drive_copy
+- **Exams**: https://drive.google.com/open?id=1jEzXSPMLK7xC90_3T6JB--M7BqNsUk6h&usp=drive_copy
+
+### Géologie
+- **Cours**: https://drive.google.com/open?id=1Oni7x9JSOF2wLCZXWPdaapD70k3wXmWV&usp=drive_copy
+- **Cours More Detailed**: https://drive.google.com/open?id=1q_Gwint6HBUIuCvWps6DTaxXKnb1ljB9&usp=drive_copy
+
+### ANANUM (Analyse Numérique)
+- **Examen**: https://drive.google.com/open?id=1lCBvB9GmI6mEzmrSSLv6c9rFx2434MAQ&usp=drive_copy
+- **TD**: https://drive.google.com/open?id=1WEu8wXqf29XgMihFAYdcYSJVF5SyQDXT&usp=drive_copy
+- **Resume**: https://drive.google.com/open?id=1xGFsI7wRwVEjMuBBFZWXKqtZkerRuYBQ&usp=drive_copy
+- **Cours**: https://drive.google.com/open?id=1-i9X2lXB0u3ryM23K-s7FKuAlzo7K5RD&usp=drive_copy
+
+### Hydrologie Appliquée
+- **Ultimate Pack**: https://drive.google.com/open?id=1jAPHwB3CCwvhT7ZTBayIesnzhkucMWXt&usp=drive_copy
+
+## 1st Year DIB - Semester 2
+
+### ROUTE
+- **Cours**: https://drive.google.com/open?id=1ouDWbs9l-0eM0nbVIBRlMvsmXEKFHb8J&usp=drive_copy
+- **Ultimate Pack**: https://drive.google.com/open?id=10eZY0dkojDUx8kmIQ7TmkbboJtZbB4zZ&usp=drive_copy
+- **Exercice**: https://drive.google.com/open?id=1FJgbMgqkbvPqUwq7AhELCmvYDb5lhJiM&usp=drive_copy
+
+### RDM 2
+- **Coming Soon**
+
+### MMC 2
+- **Pack**: https://drive.google.com/open?id=1OiBgCWDrNt2tWyAAH2yIQ6ppCKzXdiSh&usp=drive_copy
+
+### MDS 3
+- **Ultimate Pack**: https://drive.google.com/open?id=1zuNjlqYLMcS2nqz42Jx5RuMQcPENxIDP&usp=drive_copy
+- **Resume**: https://drive.google.com/open?id=1opJc0TvBGOOS96pN-NtOM_Iqx_sK3UeG&usp=drive_copy
+- **TD**: https://drive.google.com/open?id=105uPJzZodqtU3mspqBeznrgdqcz1F87b&usp=drive_copy
+
+### MDC 2
+- **Coming Soon**
+
+### Hydraulique Appliquée
+- **Coming Soon**
+
+### Structure
+- **Ultimate Pack**: https://drive.google.com/open?id=1mmEd-O17HuQi1uSv7rOTkSl0GSopbj09&usp=drive_copy
+- **Resume**: https://drive.google.com/open?id=1ppn8EL59NSSlX8KUlknfTBdHmtmqVNiv&usp=drive_copy
+- **Les Cours**: https://drive.google.com/open?id=1BTjm9PT3x59pmgJk_tucdezU3fNGROR6&usp=drive_copy
+
+## 2nd Year Preparatory - Semester 1
+
+### Analyse 3
+- **Cours (French)**: https://drive.google.com/open?id=1VTDFmbaIt9Air9ZpxLNgZoJs696xNIVW&usp=drive_copy
+- **Resumes**: https://drive.google.com/open?id=1Xq1brWQdHaEUQvk2CjhG85u9e-2aFanB&usp=drive_copy
+- **Examens et Intiro**: https://drive.google.com/open?id=1y8sbpCmDJgeNiSxqvKPNMPH0RNs9QS-u&usp=drive_copy
+- **Exam ENSTP**: https://drive.google.com/open?id=1obVYlhzgQ7WnhkXlQ-mC2RdVnsU9tO3m&usp=drive_copy
+- **TD ENSTP**: https://drive.google.com/open?id=1BIuyoDlQzx71WnVvY5sfum_ppIf3JaqW&usp=drive_copy
+
+### Physics 3
+- **Course**: https://drive.google.com/open?id=16tPHgnNAwqEVHru4pr8xThvoSOjDl-0U&usp=drive_copy
+- **Other Courses**: https://drive.google.com/open?id=1_gpkkh-StVlQfFbcIECOJZbmmRQ-J8D_&usp=drive_copy
+- **All Courses Mr Berroudji**: https://drive.google.com/open?id=1fQXpR-bjd2ejnSCwj7V9VH0vdokuz5J-&usp=drive_copy
+- **Resume**: https://drive.google.com/open?id=1DeTog5eQjOaKP9QmPaNlK0JJ1mJm5BgQ&usp=drive_copy
+- **TD Mr Berroudji**: https://drive.google.com/open?id=1XvXrDarSTXPL5tQhin-iyOJ7V0BhetNy&usp=drive_copy
+- **Exam Mr Berroudji**: https://drive.google.com/open?id=1g7DdDmdLewlZQkH3gVW3_WW0dMjIKppU&usp=drive_copy
+
+### Chemistry 3
+- **Courses**: https://drive.google.com/open?id=1kKJhrDMN65UV7Y8MACvQrqy02_FuBYmi&usp=drive_copy
+- **Exams**: https://drive.google.com/open?id=1hJ0DU0zYlTUoi49rKpkt2WLdo8fwptHm&usp=drive_copy
+- **TD**: https://drive.google.com/open?id=1A-d1tzQnDToXWmi1l-pr49DgafwLTBSG&usp=drive_copy
+
+### ANANUM 1 (Analyse Numérique 1)
+- **Courses**: https://drive.google.com/open?id=1qb9MQqTLgqKDSoWwMPBzP3EddnmYy5E-&usp=drive_copy
+- **Exams**: https://drive.google.com/open?id=1OWN4JH3G2qsdairfrK-a4_SBAnqJkyXC&usp=drive_copy
+- **TD Mr Hammadi**: https://drive.google.com/open?id=1AjlrkSrg5l_ksmXSA1uMjimLGZaUAjbu&usp=drive_copy
+
+### Electricity 1
+- **TD**: https://drive.google.com/open?id=1J0PXbDJPUQnbP5c57W_QVuaNPhTasGKe&usp=drive_copy
+- **Courses**: https://drive.google.com/open?id=1hI8-QyNla3-BeZbTQZ37mYBqhYTgmHlH&usp=drive_copy
+- **Exams**: https://drive.google.com/open?id=19KscZFyujU6B-oMamn0toVTvPEQ6yBS1&usp=drive_copy
+
+### Info 3 (Informatique 3)
+- **Courses**: https://drive.google.com/open?id=1P5cUlD_qaJvhVcMX5XPCIRgcMenuv401&usp=drive_copy
+- **TD**: https://drive.google.com/open?id=1S58vxhwH6uNCrWf4LJjd8K0pJ2PIqP4T&usp=drive_copy
+- **Exam**: https://drive.google.com/open?id=1Dj08cYdJQpo41HBlhi4BBYGs5U1TT6k9&usp=drive_copy
+
+### MDF (Mechanics des Fluide)
+- **Cours Mr Berroudji**: https://drive.google.com/open?id=101nmjOOG8x9jbIQUujIekWGyQ6C3-MYa&usp=drive_copy
+- **DS Mr Berroudji**: https://drive.google.com/open?id=1yNcgcli9YC5OnjzmcDSptycWnLNnEgMn&usp=drive_copy
+- **Exams**: https://drive.google.com/open?id=1Qz-S-Qu83ESpZNjdsuS4iD4bKlxGQ8l9&usp=drive_copy
+- **TD**: https://drive.google.com/open?id=1vt-OpT5Z7lvoQaybA2J69q68hN-qesxH&usp=drive_copy
+
+### Mécanique Rationnelle
+- **Cours**: https://drive.google.com/open?id=1o31PIjvaPzeJ9RPqA0kYfZjiG89Z0uAt&usp=drive_copy
+- **TD**: https://drive.google.com/open?id=1BM6gl1nVZ4XucgVT8OY2JTnvLsIFnua3&usp=drive_copy
+- **Exams**: https://drive.google.com/open?id=1SP_PKqiM5KIGIrNSsWWVu_nRnaSgwIay&usp=drive_copy
+
+### English
+- **2CP Classroom**: https://classroom.google.com/u/9/c/NTU1NDgzNzY2NDAx
+
+### Engineering
+- **Classroom Link**: https://classroom.google.com/u/9/c/NzE5ODI3NzI4OTI4
+
+## 2nd Year Preparatory - Semester 2
+
+### Analyse 4
+- **Cours**: https://drive.google.com/open?id=1FkLk_h1OMrbSMbf5buIrCH7j4Ifcggef&usp=drive_copy
+- **TD**: https://drive.google.com/open?id=1dHVTEueSPDYHY8ExOwpJrY4q0Y7MfGFG&usp=drive_copy
+- **Exam**: https://drive.google.com/open?id=1g36075hCYANxvdsod-K4O-zB7pbmsSr6&usp=drive_copy
+
+### ANANUM 2 (Analyse Numérique 2)
+- **Cours**: https://drive.google.com/open?id=1HMAEx5mqQyAHP0G6hGH0vaMxnTs3t6_A&usp=drive_copy
+- **Exam**: https://drive.google.com/open?id=1xTDmTtOvZrP6gCnMQ8zIzEPf_-esI3sb&usp=drive_copy
+- **TD**: https://drive.google.com/open?id=1p8u6mcy278AkcyFVD3nTnjLh7IvwT24L&usp=drive_copy
+
+### Physics 4
+- **Cours Mr Berroudji**: https://drive.google.com/open?id=1w4GcuybMbP9kR4MLBaMawr8tlZw4mm2i&usp=drive_copy
+- **DS Mr Berroudji**: https://drive.google.com/open?id=1WV5cZiFSRgS5Un8lqLgLN9dygahMM90v&usp=drive_copy
+- **Exams Mr Berroudji**: https://drive.google.com/open?id=1VsbWBJ3OEXEUwbgTgHVBjhR6tx4xGNwF&usp=drive_copy
+- **TD Mr Berroudji**: https://drive.google.com/open?id=1s3A70nHjEulqApAXge3jDO5-4focxxCl&usp=drive_copy
+
+### Chemistry 4
+- **Courses**: https://drive.google.com/open?id=1UilMG_f0E_9SFrb-WGD8BMTp78TIlbGX&usp=drive_copy
+- **Exams**: https://drive.google.com/open?id=1yZz7sOC7NMZElJ47b2usrSZ0yC-ULB-3&usp=drive_copy
+- **TD**: https://drive.google.com/open?id=1EHqm9eAyd4yXBbbtqgQdukN-CKJJqI1u&usp=drive_copy
+
+### Informatique 4
+- **Courses**: https://drive.google.com/open?id=1oc-FDLmRY-Lvq1FQLTp4T5-3mhVaIbTH&usp=drive_copy
+- **TD**: https://drive.google.com/open?id=1veu_MLKI5cT-4uXQszsEQKMwAzK_R4lR&usp=drive_copy
+
+### Électronique
+- **Courses**: https://drive.google.com/open?id=1lhxweJalP2PNcW4alRTd3WsiYjxIzG2K&usp=drive_copy
+- **Resumes**: https://drive.google.com/open?id=1J67jdMvxzv_stKlkN03toxxACWDdmRtM&usp=drive_copy
+- **TD**: https://drive.google.com/open?id=1B2EPereIQvoOF4v1Pp0VcQrx9ct7SGPm&usp=drive_copy
+
+### Résistance des Matériaux
+- **Courses**: https://drive.google.com/open?id=1DMz-ceaOB6fFEo7E05aFTDLUwLpJeeyh&usp=drive_copy
+- **Exams**: https://drive.google.com/open?id=1GKnnFP37pQFqRdDh8Vwx7_WRR4_rdInF&usp=drive_copy
+- **TDs**: https://drive.google.com/open?id=18Y5Pu3w-J7ljF-V9hkKpD7z0_S1f_frM&usp=drive_copy
+
+### Mécanique Rationnelle 2
+- **Livre Kaddi**: https://drive.google.com/open?id=1sBwoJDR23jvoe33LEt-7cW1dIcYMQvFp&usp=drive_copy
+- **TD et Solutions**: https://drive.google.com/open?id=1hW7Oo0Fvizp4rRluOWtR-9WPuzyi9m_k&usp=drive_copy
+- **Courses**: https://drive.google.com/open?id=1xE1lMMt8raXd5uZKiO1c6oieaOC_RSBP&usp=drive_copy
+- **Intiro et Exams**: https://drive.google.com/open?id=1ekDJuWyHCj7lFaYP8hueQOYwME3M4av_&usp=drive_copy
+
+### Engineering 2
+- **Telegram Links**: https://t.me/enstp2cp/1986
+
+### Dessin Technique 2
+- **Great Resume**: https://t.me/enstp2cp/1927
+
+
+
